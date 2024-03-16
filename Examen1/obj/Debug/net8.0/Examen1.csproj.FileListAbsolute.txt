@@ -1,0 +1,15 @@
+C:\Users\gordo\OneDrive\Escritorio\.NET\Examen1\Examen1\bin\Debug\net8.0\Examen1.exe
+C:\Users\gordo\OneDrive\Escritorio\.NET\Examen1\Examen1\bin\Debug\net8.0\Examen1.deps.json
+C:\Users\gordo\OneDrive\Escritorio\.NET\Examen1\Examen1\bin\Debug\net8.0\Examen1.runtimeconfig.json
+C:\Users\gordo\OneDrive\Escritorio\.NET\Examen1\Examen1\bin\Debug\net8.0\Examen1.dll
+C:\Users\gordo\OneDrive\Escritorio\.NET\Examen1\Examen1\bin\Debug\net8.0\Examen1.pdb
+C:\Users\gordo\OneDrive\Escritorio\.NET\Examen1\Examen1\obj\Debug\net8.0\Examen1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gordo\OneDrive\Escritorio\.NET\Examen1\Examen1\obj\Debug\net8.0\Examen1.AssemblyInfoInputs.cache
+C:\Users\gordo\OneDrive\Escritorio\.NET\Examen1\Examen1\obj\Debug\net8.0\Examen1.AssemblyInfo.cs
+C:\Users\gordo\OneDrive\Escritorio\.NET\Examen1\Examen1\obj\Debug\net8.0\Examen1.csproj.CoreCompileInputs.cache
+C:\Users\gordo\OneDrive\Escritorio\.NET\Examen1\Examen1\obj\Debug\net8.0\Examen1.sourcelink.json
+C:\Users\gordo\OneDrive\Escritorio\.NET\Examen1\Examen1\obj\Debug\net8.0\Examen1.dll
+C:\Users\gordo\OneDrive\Escritorio\.NET\Examen1\Examen1\obj\Debug\net8.0\refint\Examen1.dll
+C:\Users\gordo\OneDrive\Escritorio\.NET\Examen1\Examen1\obj\Debug\net8.0\Examen1.pdb
+C:\Users\gordo\OneDrive\Escritorio\.NET\Examen1\Examen1\obj\Debug\net8.0\Examen1.genruntimeconfig.cache
+C:\Users\gordo\OneDrive\Escritorio\.NET\Examen1\Examen1\obj\Debug\net8.0\ref\Examen1.dll
